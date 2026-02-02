@@ -8,6 +8,7 @@
 
 Slides can be written in HTML or Markdown
 
+New line here, what happens?
 Markdown is shorter and more readable as plain text
 
 - [Markdown overview](https://wwww.markdownguide.org/)
